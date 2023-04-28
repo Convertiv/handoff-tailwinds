@@ -7,9 +7,10 @@ const config = {
   google_tag_manager: null, // A GTM tag id. If null, GTM will not be added
   integration: {
     // Integration exports a prebuild token map
-    name: 'bootstrap', // Pick the integration type (bootstrap)
-    version: '5.2', // Pick the integration version
+    name: 'tailwinds', // Pick the integration type (bootstrap)
+    version: '1.9', // Pick the integration version
   },
+  components: true,
   figma: { // figma allows you to customize the way handoff fetches from figma.
     size: [
       // Component size map allows you to map figma
