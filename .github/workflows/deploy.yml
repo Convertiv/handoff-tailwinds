@@ -2,8 +2,8 @@ name: Deploy to production
 
 on:
   # Trigger on Push
-  # push:
-  #   branches: [main]
+  push:
+    branches: [main]
   # # Trigger twice a day on schedule
   # schedule:
   #   # * is a special character in YAML so you have to quote this string
