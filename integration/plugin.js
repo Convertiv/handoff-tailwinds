@@ -1,5 +1,5 @@
 var init = () => {
-  console.log('initialize hook in tailwind plugin');
+  console.log('initialize hook in tailwinds plugin');
 };
 var postCssTransformer = (documentationObject, css) => {};
 var postScssTransformer = (documentationObject, scss) => {};
