@@ -2,13 +2,13 @@
 
 /** @type {import('handoff-app/client-config').Config} */
 const config = {
-  title: 'Demo Design System', // The Title of your project
-  client: 'Demo Software', // The name of your org
+  title: 'Tailwinds Handoff', // The Title of your project
+  client: 'Tailwinds Demo', // The name of your org
   google_tag_manager: null, // A GTM tag id. If null, GTM will not be added
   integration: {
     // Integration exports a prebuild token map
     name: 'tailwinds', // Pick the integration type (bootstrap)
-    version: '1.9', // Pick the integration version
+    version: '3.3', // Pick the integration version
   },
   components: true,
   figma: { // figma allows you to customize the way handoff fetches from figma.
