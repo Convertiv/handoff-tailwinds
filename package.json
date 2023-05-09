@@ -35,6 +35,12 @@
   },
   "homepage": "https://www.handoff.com/",
   "dependencies": {
-    "handoff-app": "git://github.com/Convertiv/handoff-app.git#experimental/tailwinds-integration"
+    "handoff-app": "git://github.com/Convertiv/handoff-app.git#experimental/tailwinds-integration",
+    "style-loader": "^3.3.2"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.23",
+    "postcss-loader": "^7.3.0",
+    "tailwindcss": "^3.3.2"
   }
 }

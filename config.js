@@ -7,7 +7,7 @@ const config = {
   google_tag_manager: null, // A GTM tag id. If null, GTM will not be added
   integration: {
     // Integration exports a prebuild token map
-    name: 'tailwinds', // Pick the integration type (bootstrap)
+    name: 'tailwind', // Pick the integration type (bootstrap)
     version: '3.3', // Pick the integration version
   },
   components: true,

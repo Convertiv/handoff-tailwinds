@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2023-05-09T02:19:36.578Z",
+    "design": {
+      "colors": [
+        {
+          "type": "add",
+          "object": {
+            "name": "Green",
+            "group": "primary",
+            "value": "#23e22b",
+            "blend": "normal",
+            "sass": "$color-primary-green",
+            "machineName": "green"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2023-04-28T18:12:26.315Z",
     "assets": {
       "icons": [
