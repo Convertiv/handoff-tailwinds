@@ -1,8 +1,9 @@
 /** @type {import('tailwindcss').Config} */ 
  module.exports = {
   "content": [
-    "/home/runner/work/handoff-tailwinds/handoff-tailwinds/.handoff-app/integrations/tailwind/3.3/**/*.{html,js}"
+    "/Users/bradleymering/Documents/Clients/convertiv/handoff/handoff-tailwinds/.handoff-app/integrations/tailwind/3.3/**/*.{html,js}"
   ],
+  "blocklist": [],
   "extend": {
     "colors": {
       "primary-blue": "#0080ff",

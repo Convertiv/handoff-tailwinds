@@ -1,5 +1,6 @@
 var path = require('path');
 const tailwindcss = require('tailwindcss');
+const fs = require('fs');
 
 sandbox.exports = {
   init: () => {
@@ -10,7 +11,12 @@ sandbox.exports = {
   postExtract: (documentationObject) => {},
   postPreview: (documentationObject) => {},
   postBuild: (documentationObject) => {},
+  postFont: (documentationObject, customFonts) => {},
   modifyWebpackConfig: (webpackConfig) => {
+    const tailwindPath = path.resolve(__dirname, '../../../../exported/tailwind-tokens/tailwind.config.js');
+    if(!fs.existsSync(tailwindPath)) {
+      console.log(`Tailwind config not found at ${tailwindPath}.`);
+    }
     webpackConfig.module.rules = [
       {
         test: /\.js$/i,
@@ -30,7 +36,7 @@ sandbox.exports = {
             options: {
               postcssOptions: {
                 plugins: [
-                  tailwindcss(path.resolve(__dirname, '../../../exported/tailwind-tokens/tailwind.config.js')),
+                  tailwindcss(tailwindPath),
                   require('autoprefixer'),
                 ],
               },
@@ -71,6 +77,7 @@ sandbox.exports = {
       content: [
         path.resolve(__dirname, './**/*.{html,js}'),
       ],
+      blocklist: [],
       extend,
     }
     const data = `/** @type {import('tailwindcss').Config} */ \n module.exports = ${JSON.stringify(defaults, null, 2)};`;
