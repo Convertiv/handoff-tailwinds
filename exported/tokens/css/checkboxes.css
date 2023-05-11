@@ -1,7 +1,7 @@
 .checkbox {
 
   /* checkbox  , theme: Dark, state: Disabled*/
-   --checkbox-disabled-on-background: #258cf2;
+   --checkbox-disabled-on-background: #309cff;
   --checkbox-disabled-on-width: 18px;
   --checkbox-disabled-on-width-raw: 18;
   --checkbox-disabled-on-height: 18px;
@@ -36,7 +36,7 @@
   --checkbox-disabled-label-on-opacity: 1;
 
   /* checkbox  , theme: Dark, state: Hover*/
-   --checkbox-hover-on-background: #0080ff;
+   --checkbox-hover-on-background: #0073e6;
   --checkbox-hover-on-width: 18px;
   --checkbox-hover-on-width-raw: 18;
   --checkbox-hover-on-height: 18px;
@@ -71,7 +71,7 @@
   --checkbox-hover-label-on-opacity: 1;
 
   /* checkbox  , theme: Dark, state: Default*/
-   --checkbox-on-background: #258cf2;
+   --checkbox-on-background: #309cff;
   --checkbox-on-width: 18px;
   --checkbox-on-width-raw: 18;
   --checkbox-on-height: 18px;
@@ -246,7 +246,7 @@
   --checkbox-disabled-label-on-opacity: 1;
 
   /* checkbox  , theme: Light, state: Hover*/
-   --checkbox-hover-on-background: #258cf2;
+   --checkbox-hover-on-background: #309cff;
   --checkbox-hover-on-width: 18px;
   --checkbox-hover-on-width-raw: 18;
   --checkbox-hover-on-height: 18px;

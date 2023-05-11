@@ -1,12 +1,9 @@
-/** @type {import('tailwindcss').Config} */ 
+/** You can include this file in your tailwind.config.js */ 
  module.exports = {
-  "content": [
-    "/Users/bradleymering/Documents/Clients/convertiv/handoff/handoff-tailwinds/.handoff-app/integrations/tailwind/3.3/**/*.{html,js}"
-  ],
-  "blocklist": [],
-  "extend": {
+  "theme": {
     "colors": {
-      "primary-blue": "#0080ff",
+      "primary-wild": "linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #ff0000",
+      "primary-blue-darker": "#0f69c1",
       "secondary-purple": "#4c34b6",
       "extra-info": "#307abf",
       "extra-success": "#198754",
@@ -30,9 +27,8 @@
       "text-muted-invert": "rgba(255, 255, 255, 0.45)",
       "neutral-white": "#ffffff",
       "neutral-gray-100": "#f8f8f8",
-      "primary-blue-darker": "#0f69c1",
-      "primary-blue-lighter": "#258cf2",
-      "primary-green": "#23e22b",
+      "primary-blue-lighter": "#309cff",
+      "primary-awesome-gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(90deg, rgba(37, 140, 242) 4.33%, rgba(242, 37, 37, 0.56) 29.96%, rgba(37, 242, 70) 63.16%)",
       "secondary-purple-darker": "#3b2794",
       "secondary-purple-lighter": "#7158dd",
       "border-gradient-test": "linear-gradient(180deg, rgba(194, 37, 94) 0%, rgba(27, 172, 204) 100%), #d9d9d9",
@@ -56,7 +52,8 @@
       "neutral-gray-800": "#333333",
       "neutral-gray-900": "#191919",
       "neutral-black": "#000000",
-      "neutral-transparent": "rgba(0, 0, 0, 0)"
+      "neutral-transparent": "rgba(0, 0, 0, 0)",
+      "primary-blue": "#0073e6"
     },
     "fontSize": {
       "heading-1": "56px",

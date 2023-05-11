@@ -1,7 +1,7 @@
 .radio {
 
   /* radio  , theme: Dark, state: Disabled*/
-   --radio-disabled-on-background: #258cf2;
+   --radio-disabled-on-background: #309cff;
   --radio-disabled-on-width: 18px;
   --radio-disabled-on-width-raw: 18;
   --radio-disabled-on-height: 18px;
@@ -38,7 +38,7 @@
   --radio-disabled-thumb-on-border-color: transparent;
 
   /* radio  , theme: Dark, state: Hover*/
-   --radio-hover-on-background: #0080ff;
+   --radio-hover-on-background: #0073e6;
   --radio-hover-on-width: 18px;
   --radio-hover-on-width-raw: 18;
   --radio-hover-on-height: 18px;
@@ -75,7 +75,7 @@
   --radio-hover-thumb-on-border-color: transparent;
 
   /* radio  , theme: Dark, state: Default*/
-   --radio-on-background: #258cf2;
+   --radio-on-background: #309cff;
   --radio-on-width: 18px;
   --radio-on-width-raw: 18;
   --radio-on-height: 18px;

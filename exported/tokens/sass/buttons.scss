@@ -1,5 +1,5 @@
 // Primary button, theme: Dark, state: Default
-$button-primary-dark-background: #0080ff;
+$button-primary-dark-background: #0073e6;
 $button-primary-dark-padding-top: 13px;
 $button-primary-dark-padding-right: 20px;
 $button-primary-dark-padding-bottom: 13px;
@@ -20,7 +20,7 @@ $button-primary-dark-box-shadow: none;
 $button-primary-dark-opacity: 1;
 
 // Primary button, theme: Dark, state: Hover
-$button-primary-dark-hover-background: #258cf2;
+$button-primary-dark-hover-background: #309cff;
 $button-primary-dark-hover-padding-top: 13px;
 $button-primary-dark-hover-padding-right: 20px;
 $button-primary-dark-hover-padding-bottom: 13px;
@@ -288,7 +288,7 @@ $button-light-dark-hover-letter-spacing: -0.28px;
 $button-light-dark-hover-text-align: center;
 $button-light-dark-hover-text-decoration: none;
 $button-light-dark-hover-text-transform: none;
-$button-light-dark-hover-color: #0080ff;
+$button-light-dark-hover-color: #0073e6;
 $button-light-dark-hover-box-shadow: none;
 $button-light-dark-hover-opacity: 1;
 
@@ -440,7 +440,7 @@ $button-secondary-dark-disabled-box-shadow: none;
 $button-secondary-dark-disabled-opacity: 0.699999988079071;
 
 // Primary button, theme: Light, state: Default
-$button-primary-background: #4c34b6;
+$button-primary-background: #0f69c1;
 $button-primary-padding-top: 13px;
 $button-primary-padding-right: 20px;
 $button-primary-padding-bottom: 13px;
@@ -461,7 +461,7 @@ $button-primary-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.08);
 $button-primary-opacity: 1;
 
 // Primary button, theme: Light, state: Hover
-$button-primary-hover-background: #4c34b6;
+$button-primary-hover-background: #0f69c1;
 $button-primary-hover-padding-top: 13px;
 $button-primary-hover-padding-right: 20px;
 $button-primary-hover-padding-bottom: 13px;
@@ -729,7 +729,7 @@ $button-light-hover-letter-spacing: -0.28px;
 $button-light-hover-text-align: center;
 $button-light-hover-text-decoration: none;
 $button-light-hover-text-transform: none;
-$button-light-hover-color: #0080ff;
+$button-light-hover-color: #0073e6;
 $button-light-hover-box-shadow: none;
 $button-light-hover-opacity: 1;
 
@@ -942,3 +942,24 @@ $button-lg-text-transform: none;
 $button-lg-color: #ffffff;
 $button-lg-box-shadow: none;
 $button-lg-opacity: 1;
+
+// Extra button
+$button-extra-background: #000000;
+$button-extra-padding-top: 14px;
+$button-extra-padding-right: 20px;
+$button-extra-padding-bottom: 14px;
+$button-extra-padding-left: 20px;
+$button-extra-border-width: 1px;
+$button-extra-border-radius: 4px;
+$button-extra-border-color: rgba(0, 0, 0, 0);
+$button-extra-font-family: 'Inter';
+$button-extra-font-size: 16px;
+$button-extra-font-weight: 600;
+$button-extra-line-height: 1.25;
+$button-extra-letter-spacing: -0.32px;
+$button-extra-text-align: center;
+$button-extra-text-decoration: none;
+$button-extra-text-transform: none;
+$button-extra-color: #ffffff;
+$button-extra-box-shadow: none;
+$button-extra-opacity: 1;

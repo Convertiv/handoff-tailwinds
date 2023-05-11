@@ -3,13 +3,13 @@
     "buttons": [
       {
         "id": "design-theme-dark-type-primary-state-default",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-primary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-primary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-primary-state-hover",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-primary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-primary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-primary-state-disabled",
@@ -18,103 +18,103 @@
       },
       {
         "id": "design-theme-dark-type-custom-type-state-default",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-custom-type\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-custom-type\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-custom-type-state-hover",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-custom-type\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-custom-type\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-primary-state-disabled",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-custom-type\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-custom-type\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-outline-secondary-state-default",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-outline-secondary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-outline-secondary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-outline-secondary-state-hover",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-outline-secondary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-outline-secondary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-primary-state-disabled",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-outline-secondary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-outline-secondary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-danger-state-default",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-danger\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-danger\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-danger-state-hover",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-danger\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-danger\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-primary-state-disabled",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-danger\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-danger\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-light-state-default",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-light\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-light\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-light-state-hover",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-light\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-light\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-primary-state-disabled",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-light\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-light\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-dark-state-default",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-dark\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-dark\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-dark-state-hover",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-dark\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-dark\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-primary-state-disabled",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-dark\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-dark\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-secondary-state-default",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-secondary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-secondary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-secondary-state-hover",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-secondary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-secondary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-dark-type-primary-state-disabled",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Button text\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-dark preview-body\">\n  <div>\n    <button class=\"btn btn-secondary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-secondary\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-primary-state-default",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Primary Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Primary Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-primary\">Primary Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Primary Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-primary\">Primary Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Primary Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-primary-state-hover",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Primary Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Primary Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-primary\">Primary Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Primary Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-primary\">Primary Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Primary Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-primary-state-disabled",
@@ -123,93 +123,93 @@
       },
       {
         "id": "design-theme-light-type-custom-type-state-default",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Warning Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Warning Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-custom-type\">Warning Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Warning Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-custom-type\">Warning Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Warning Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-custom-type-state-hover",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Warning Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Warning Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-custom-type\">Warning Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Warning Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-custom-type\">Warning Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Warning Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-primary-state-disabled",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Disabled Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Disabled Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-custom-type\">Disabled Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Disabled Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-custom-type\">Disabled Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Disabled Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-outline-secondary-state-default",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Outline Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Outline Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-outline-secondary\">Outline Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Outline Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-outline-secondary\">Outline Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Outline Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-outline-secondary-state-hover",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Outline Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Outline Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-outline-secondary\">Outline Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Outline Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-outline-secondary\">Outline Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Outline Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-primary-state-disabled",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Disabled Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Disabled Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-outline-secondary\">Disabled Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Disabled Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-outline-secondary\">Disabled Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Disabled Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-danger-state-default",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Danger Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Danger Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-danger\">Danger Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Danger Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-danger\">Danger Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Danger Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-danger-state-hover",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Danger Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Danger Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-danger\">Danger Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Danger Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-danger\">Danger Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Danger Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-primary-state-disabled",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Disabled Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Disabled Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-danger\">Disabled Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Disabled Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-danger\">Disabled Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Disabled Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-light-state-default",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Light Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Light Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-light\">Light Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Light Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-light\">Light Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Light Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-light-state-hover",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Light Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Light Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-light\">Light Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Light Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-light\">Light Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Light Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-primary-state-disabled",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Disabled Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Disabled Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-light\">Disabled Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Disabled Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-light\">Disabled Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Disabled Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-dark-state-default",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Dark Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Dark Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-dark\">Dark Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Dark Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-dark\">Dark Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Dark Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-dark-state-hover",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Dark Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Dark Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-dark\">Dark Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Dark Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-dark\">Dark Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Dark Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-primary-state-disabled",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Disabled Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Disabled Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-dark\">Disabled Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Disabled Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-dark\">Disabled Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Disabled Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-secondary-state-default",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Secondary Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Secondary Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-secondary\">Secondary Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Secondary Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-secondary\">Secondary Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Secondary Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-secondary-state-hover",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Secondary Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Secondary Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-secondary\">Secondary Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Secondary Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-secondary\">Secondary Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Secondary Button\n    </button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-primary-state-disabled",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n    <button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Disabled Button\n    </button>\n</body>",
-        "code": "<button class=\"bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded\">\n        Disabled Button\n    </button>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"btn btn-secondary\">Disabled Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Disabled Button\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-secondary\">Disabled Button</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Disabled Button\n    </button>\n  </div>"
       },
       {
         "id": "layout-size-small",
@@ -225,6 +225,11 @@
         "id": "layout-size-large",
         "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n<button class=\"btn btn-primary btn-lg\">Button text</button>\n</body>\n",
         "code": "<button class=\"btn btn-primary btn-lg\">Button text</button>"
+      },
+      {
+        "id": "layout-size-extra",
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme- preview-body\">\n  <div>\n    <button class=\"btn btn-\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"btn btn-\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       }
     ],
     "selects": [
@@ -490,48 +495,48 @@
     "alerts": [
       {
         "id": "design-type-primary",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div\n    class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg\n        class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path\n          d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        />\n      </svg>\n    </span>\n  </div>\n</body>\n",
-        "code": "<div     class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg         class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path           d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        ></path>\n      </svg>\n    </span>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>"
       },
       {
         "id": "design-type-secondary",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div\n    class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg\n        class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path\n          d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        />\n      </svg>\n    </span>\n  </div>\n</body>\n",
-        "code": "<div     class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg         class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path           d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        ></path>\n      </svg>\n    </span>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>"
       },
       {
         "id": "design-type-dark",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div\n    class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg\n        class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path\n          d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        />\n      </svg>\n    </span>\n  </div>\n</body>\n",
-        "code": "<div     class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg         class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path           d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        ></path>\n      </svg>\n    </span>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>"
       },
       {
         "id": "design-type-light",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div\n    class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg\n        class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path\n          d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        />\n      </svg>\n    </span>\n  </div>\n</body>\n",
-        "code": "<div     class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg         class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path           d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        ></path>\n      </svg>\n    </span>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>"
       },
       {
         "id": "design-type-info",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div\n    class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg\n        class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path\n          d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        />\n      </svg>\n    </span>\n  </div>\n</body>\n",
-        "code": "<div     class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg         class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path           d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        ></path>\n      </svg>\n    </span>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>"
       },
       {
         "id": "design-type-success",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div\n    class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg\n        class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path\n          d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        />\n      </svg>\n    </span>\n  </div>\n</body>\n",
-        "code": "<div     class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg         class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path           d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        ></path>\n      </svg>\n    </span>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>"
       },
       {
         "id": "design-type-warning",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div\n    class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg\n        class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path\n          d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        />\n      </svg>\n    </span>\n  </div>\n</body>\n",
-        "code": "<div     class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg         class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path           d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        ></path>\n      </svg>\n    </span>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>"
       },
       {
         "id": "design-type-danger",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div\n    class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg\n        class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path\n          d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        />\n      </svg>\n    </span>\n  </div>\n</body>\n",
-        "code": "<div     class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg         class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path           d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        ></path>\n      </svg>\n    </span>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>"
       },
       {
         "id": "design-type-type9",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div\n    class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg\n        class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path\n          d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        />\n      </svg>\n    </span>\n  </div>\n</body>\n",
-        "code": "<div     class=\"bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative\"\n    role=\"alert\"\n  >\n    <span class=\"block sm:inline\">Notification text</span>\n    <span class=\"absolute top-0 bottom-0 right-0 px-4 py-3\">\n      <svg         class=\"fill-current h-6 w-6 text-red-500\"\n        role=\"button\"\n        xmlns=\"http://www.w3.org/2000/svg\"\n        viewBox=\"0 0 20 20\"\n      >\n        <title>Close</title>\n        <path           d=\"M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z\"\n        ></path>\n      </svg>\n    </span>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert shadow-lg\">\n    <div>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" class=\"stroke-info flex-shrink-0 w-6 h-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path></svg>\n      <span>Notification text</span>\n    </div>\n  </div>"
       },
       {
         "id": "layout-horizontal",
