@@ -1,8 +1,8 @@
 .tooltip {
 
 /* Tooltips Horizontal: right Vertical: top*/ 
-   --tooltip-background: #0073e6;
-  --tooltip-bg: #0073e6;
+   --tooltip-background: #0080ff;
+  --tooltip-bg: #0080ff;
   --tooltip-padding-y: 8px;
   --tooltip-padding-x: 8px;
   --tooltip-padding-top: 8px;
@@ -23,8 +23,8 @@
   --tooltip-text-decoration: none;
 
 /* Tooltips Horizontal: center Vertical: top*/ 
-   --tooltip-background: #0073e6;
-  --tooltip-bg: #0073e6;
+   --tooltip-background: #0080ff;
+  --tooltip-bg: #0080ff;
   --tooltip-padding-y: 8px;
   --tooltip-padding-x: 8px;
   --tooltip-padding-top: 8px;
@@ -45,8 +45,8 @@
   --tooltip-text-decoration: none;
 
 /* Tooltips Horizontal: left Vertical: top*/ 
-   --tooltip-background: #0073e6;
-  --tooltip-bg: #0073e6;
+   --tooltip-background: #0080ff;
+  --tooltip-bg: #0080ff;
   --tooltip-padding-y: 8px;
   --tooltip-padding-x: 8px;
   --tooltip-padding-top: 8px;
@@ -67,8 +67,8 @@
   --tooltip-text-decoration: none;
 
 /* Tooltips Horizontal: right Vertical: bottom*/ 
-   --tooltip-background: #0073e6;
-  --tooltip-bg: #0073e6;
+   --tooltip-background: #0080ff;
+  --tooltip-bg: #0080ff;
   --tooltip-padding-y: 8px;
   --tooltip-padding-x: 8px;
   --tooltip-padding-top: 8px;
@@ -89,8 +89,8 @@
   --tooltip-text-decoration: none;
 
 /* Tooltips Horizontal: center Vertical: bottom*/ 
-   --tooltip-background: #0073e6;
-  --tooltip-bg: #0073e6;
+   --tooltip-background: #0080ff;
+  --tooltip-bg: #0080ff;
   --tooltip-padding-y: 8px;
   --tooltip-padding-x: 8px;
   --tooltip-padding-top: 8px;
@@ -111,8 +111,8 @@
   --tooltip-text-decoration: none;
 
 /* Tooltips Horizontal: left Vertical: bottom*/ 
-   --tooltip-background: #0073e6;
-  --tooltip-bg: #0073e6;
+   --tooltip-background: #0080ff;
+  --tooltip-bg: #0080ff;
   --tooltip-padding-y: 8px;
   --tooltip-padding-x: 8px;
   --tooltip-padding-top: 8px;

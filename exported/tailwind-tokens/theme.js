@@ -2,8 +2,7 @@
  module.exports = {
   "theme": {
     "colors": {
-      "primary-wild": "linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #ff0000",
-      "primary-blue-darker": "#0f69c1",
+      "primary-blue": "#0080ff",
       "secondary-purple": "#4c34b6",
       "extra-info": "#307abf",
       "extra-success": "#198754",
@@ -27,8 +26,9 @@
       "text-muted-invert": "rgba(255, 255, 255, 0.45)",
       "neutral-white": "#ffffff",
       "neutral-gray-100": "#f8f8f8",
-      "primary-blue-lighter": "#309cff",
-      "primary-awesome-gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(90deg, rgba(37, 140, 242) 4.33%, rgba(242, 37, 37, 0.56) 29.96%, rgba(37, 242, 70) 63.16%)",
+      "primary-blue-darker": "#0f69c1",
+      "primary-blue-lighter": "#258cf2",
+      "primary-green": "#23e22b",
       "secondary-purple-darker": "#3b2794",
       "secondary-purple-lighter": "#7158dd",
       "border-gradient-test": "linear-gradient(180deg, rgba(194, 37, 94) 0%, rgba(27, 172, 204) 100%), #d9d9d9",
@@ -52,8 +52,7 @@
       "neutral-gray-800": "#333333",
       "neutral-gray-900": "#191919",
       "neutral-black": "#000000",
-      "neutral-transparent": "rgba(0, 0, 0, 0)",
-      "primary-blue": "#0073e6"
+      "neutral-transparent": "rgba(0, 0, 0, 0)"
     },
     "fontSize": {
       "heading-1": "56px",
@@ -73,7 +72,8 @@
       "base": "10px",
       "strong": "10px",
       "label": "12px",
-      "help": "12px"
+      "help": "12px",
+      "paragraph": "14px"
     },
     "lineHeight": {
       "heading-1": "62px",
@@ -93,7 +93,8 @@
       "base": "16px",
       "strong": "16px",
       "label": "19px",
-      "help": "19px"
+      "help": "19px",
+      "paragraph": "25px"
     },
     "textColor": {
       "heading-1": "#000000",
@@ -113,7 +114,8 @@
       "base": "#000000",
       "strong": "#000000",
       "label": "#000000",
-      "help": "#000000"
+      "help": "#000000",
+      "paragraph": "#000000"
     },
     "fontFamily": {
       "heading-1": [
@@ -169,6 +171,9 @@
       ],
       "help": [
         "Inter"
+      ],
+      "paragraph": [
+        "Inter"
       ]
     },
     "fontWeight": {
@@ -189,7 +194,8 @@
       "base": 400,
       "strong": 700,
       "label": 400,
-      "help": 400
+      "help": 400,
+      "paragraph": 400
     },
     "letterSpacing": {
       "heading-1": "-1.12px",
@@ -209,7 +215,8 @@
       "base": "-0.2px",
       "strong": "-0.2px",
       "label": "-0.24px",
-      "help": "-0.24px"
+      "help": "-0.24px",
+      "paragraph": "-0.28px"
     }
   }
 };

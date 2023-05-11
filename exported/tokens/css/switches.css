@@ -6,7 +6,7 @@
   --switch-disabled-dark-on-width-raw: 36;
   --switch-disabled-dark-on-height: 20px;
   --switch-disabled-dark-on-height-raw: 20;
-  --switch-disabled-dark-on-background: #309cff;
+  --switch-disabled-dark-on-background: #258cf2;
   --switch-disabled-dark-on-border-width: 1px;
   --switch-disabled-dark-on-border-radius: 174px;
   --switch-disabled-dark-on-border-color: rgba(0, 0, 0, 0);
@@ -36,7 +36,7 @@
   --switch-hover-dark-on-width-raw: 36;
   --switch-hover-dark-on-height: 20px;
   --switch-hover-dark-on-height-raw: 20;
-  --switch-hover-dark-on-background: #0073e6;
+  --switch-hover-dark-on-background: #0080ff;
   --switch-hover-dark-on-border-width: 1px;
   --switch-hover-dark-on-border-radius: 174px;
   --switch-hover-dark-on-border-color: rgba(0, 0, 0, 0);
@@ -66,7 +66,7 @@
   --switch-dark-on-width-raw: 36;
   --switch-dark-on-height: 20px;
   --switch-dark-on-height-raw: 20;
-  --switch-dark-on-background: #309cff;
+  --switch-dark-on-background: #258cf2;
   --switch-dark-on-border-width: 1px;
   --switch-dark-on-border-radius: 174px;
   --switch-dark-on-border-color: rgba(0, 0, 0, 0);
@@ -186,7 +186,7 @@
   --switch-disabled-on-width-raw: 36;
   --switch-disabled-on-height: 20px;
   --switch-disabled-on-height-raw: 20;
-  --switch-disabled-on-background: #309cff;
+  --switch-disabled-on-background: #258cf2;
   --switch-disabled-on-border-width: 1px;
   --switch-disabled-on-border-radius: 174px;
   --switch-disabled-on-border-color: rgba(0, 0, 0, 0);
@@ -246,7 +246,7 @@
   --switch-on-width-raw: 36;
   --switch-on-height: 20px;
   --switch-on-height-raw: 20;
-  --switch-on-background: #0073e6;
+  --switch-on-background: #0080ff;
   --switch-on-border-width: 1px;
   --switch-on-border-radius: 174px;
   --switch-on-border-color: rgba(0, 0, 0, 0);

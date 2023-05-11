@@ -225,11 +225,6 @@
         "id": "layout-size-large",
         "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n<button class=\"btn btn-primary btn-lg\">Button text</button>\n</body>\n",
         "code": "<button class=\"btn btn-primary btn-lg\">Button text</button>"
-      },
-      {
-        "id": "layout-size-extra",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme- preview-body\">\n  <div>\n    <button class=\"btn btn-\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>\n</body>\n",
-        "code": "<div>\n    <button class=\"btn btn-\">Button text</button>\n    <button class=\"bg-primary-blue hover:bg-blue-700 text-neutral-white font-bold py-2 px-4 rounded\">\n      Button text\n    </button>\n  </div>"
       }
     ],
     "selects": [
