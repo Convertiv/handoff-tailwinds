@@ -117,7 +117,7 @@ const transformButtonComponentTokensToTailwinds = (documentationObject) => {
   plugins = [];
   // Find default buttons
   documentationObject.components.buttons
-    .filter((button) => button.state === "default")
+    .filter((button) => button.state === "default" && button.theme === "light")
     .map((button) => {
       const rendered = {
         background: `var(--button-${button.type}-background)`,
