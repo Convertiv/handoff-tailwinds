@@ -1,5 +1,108 @@
 [
   {
+    "timestamp": "2023-05-11T22:29:41.771Z",
+    "design": {
+      "colors": [
+        {
+          "type": "add",
+          "object": {
+            "name": "Green",
+            "group": "primary",
+            "value": "#23e22b",
+            "blend": "normal",
+            "sass": "$color-primary-green",
+            "machineName": "green"
+          }
+        },
+        {
+          "type": "delete",
+          "object": {
+            "name": "Wild",
+            "group": "primary",
+            "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #ff0000",
+            "blend": "luminosity, normal",
+            "sass": "$color-primary-wild",
+            "machineName": "wild"
+          }
+        },
+        {
+          "type": "delete",
+          "object": {
+            "name": "Awesome Gradient",
+            "group": "primary",
+            "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(90deg, rgba(37, 140, 242) 4.33%, rgba(242, 37, 37, 0.56) 29.96%, rgba(37, 242, 70) 63.16%)",
+            "blend": "normal, normal",
+            "sass": "$color-primary-awesome-gradient",
+            "machineName": "awesome-gradient"
+          }
+        },
+        {
+          "type": "change",
+          "old": {
+            "name": "Blue",
+            "group": "primary",
+            "value": "#0073e6",
+            "blend": "normal",
+            "sass": "$color-primary-blue",
+            "machineName": "blue"
+          },
+          "new": {
+            "name": "Blue",
+            "group": "primary",
+            "value": "#0080ff",
+            "blend": "normal",
+            "sass": "$color-primary-blue",
+            "machineName": "blue"
+          }
+        },
+        {
+          "type": "change",
+          "old": {
+            "name": "Blue - lighter",
+            "group": "primary",
+            "value": "#309cff",
+            "blend": "normal",
+            "sass": "$color-primary-blue-lighter",
+            "machineName": "blue-lighter"
+          },
+          "new": {
+            "name": "Blue - lighter",
+            "group": "primary",
+            "value": "#258cf2",
+            "blend": "normal",
+            "sass": "$color-primary-blue-lighter",
+            "machineName": "blue-lighter"
+          }
+        }
+      ],
+      "typography": [
+        {
+          "type": "add",
+          "object": {
+            "name": "Paragraph",
+            "machine_name": "paragraph",
+            "group": "",
+            "values": {
+              "fontFamily": "Inter",
+              "fontPostScriptName": null,
+              "fontWeight": 400,
+              "textAutoResize": "WIDTH_AND_HEIGHT",
+              "fontSize": 14,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": -0.28,
+              "lineHeightPx": 25,
+              "lineHeightPercent": 147.55197143554688,
+              "lineHeightPercentFontSize": 178.57142639160156,
+              "lineHeightUnit": "PIXELS",
+              "color": "#000000"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2023-05-11T19:44:42.542Z",
     "design": {
       "colors": [
