@@ -37,7 +37,7 @@ jobs:
           git config --global user.name "Convertiv Development"
       - name: Fetch from figma
         run: |
-          npm install --legacy-peer-deps
+          npm install
           npm run fetch
           git commit -a -m "[skip ci] updating changelog with latest figma changes"
           git push
@@ -51,6 +51,6 @@ jobs:
           aws-region: us-east-1
       - name: Deploy to S3 Bucket
         run: |
-          aws s3 sync --delete dist/ s3://${{env.AWS_S3_BUCKET}}/
+          aws s3 sync --delete out/ s3://${{env.AWS_S3_BUCKET}}/
           aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_DISTRIBUTION }} --paths /\*
         
