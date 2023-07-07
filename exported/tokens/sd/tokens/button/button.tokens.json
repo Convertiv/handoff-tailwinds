@@ -1614,7 +1614,7 @@
             }
           },
           "color": {
-            "value": "#0073e6"
+            "value": "#0080ff"
           }
         },
         "background": {
@@ -1868,7 +1868,7 @@
           }
         },
         "color": {
-          "value": "#0073e6"
+          "value": "#0080ff"
         }
       },
       "background": {
@@ -3064,7 +3064,7 @@
       "dark": {
         "hover": {
           "background": {
-            "value": "#309cff"
+            "value": "#258cf2"
           },
           "border": {
             "width": {
@@ -3148,7 +3148,7 @@
           }
         },
         "background": {
-          "value": "#0073e6"
+          "value": "#0080ff"
         },
         "border": {
           "width": {
@@ -3318,7 +3318,7 @@
       },
       "hover": {
         "background": {
-          "value": "#0f69c1"
+          "value": "#23e22b"
         },
         "border": {
           "width": {
@@ -3402,7 +3402,7 @@
         }
       },
       "background": {
-        "value": "#0f69c1"
+        "value": "#4c34b6"
       },
       "border": {
         "width": {
@@ -3741,91 +3741,6 @@
       }
     },
     "lg": {
-      "background": {
-        "value": "#000000"
-      },
-      "border": {
-        "width": {
-          "value": "1px"
-        },
-        "radius": {
-          "value": "4px"
-        },
-        "color": {
-          "value": "rgba(0, 0, 0, 0)"
-        }
-      },
-      "padding": {
-        "y": {
-          "value": "14px"
-        },
-        "x": {
-          "value": "20px"
-        },
-        "top": {
-          "value": "14px"
-        },
-        "right": {
-          "value": "20px"
-        },
-        "bottom": {
-          "value": "14px"
-        },
-        "left": {
-          "value": "20px"
-        },
-        "start": {
-          "value": "20px"
-        },
-        "end": {
-          "value": "20px"
-        }
-      },
-      "spacing": {
-        "value": "20px"
-      },
-      "box": {
-        "shadow": {
-          "value": "none"
-        }
-      },
-      "font": {
-        "family": {
-          "value": "'Inter'"
-        },
-        "size": {
-          "value": "16px"
-        },
-        "weight": {
-          "value": "600"
-        }
-      },
-      "line": {
-        "height": {
-          "value": "1.25"
-        }
-      },
-      "letter": {
-        "spacing": {
-          "value": "-0.32px"
-        }
-      },
-      "text": {
-        "align": {
-          "value": "center"
-        },
-        "decoration": {
-          "value": "none"
-        },
-        "transform": {
-          "value": "none"
-        }
-      },
-      "color": {
-        "value": "#ffffff"
-      }
-    },
-    "extra": {
       "background": {
         "value": "#000000"
       },

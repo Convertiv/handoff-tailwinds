@@ -214,11 +214,6 @@
         "code": "<button class=\"btn btn-primary btn-lg\"></button>"
       },
       {
-        "id": "size-extra",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme- preview-body\">\n  <div>\n    <button class=\"button-\">Button text</button>\n  </div>\n</body>\n",
-        "code": "<div>\n    <button class=\"button-\">Button text</button>\n  </div>"
-      },
-      {
         "id": "design-theme-light-type-custom-type-state-disabled",
         "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme-light preview-body\">\n  <div>\n    <button class=\"button-custom-type\">Disabled Button</button>\n  </div>\n</body>\n",
         "code": "<div>\n    <button class=\"button-custom-type\">Disabled Button</button>\n  </div>"
