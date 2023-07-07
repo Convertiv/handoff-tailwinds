@@ -1,6 +1,6 @@
 module.exports = {
   ".tooltip-": {
-    "background": "#0073e6",
+    "background": "#0080ff",
     "borderWidth": "1px",
     "borderRadius": "2px",
     "borderColor": "transparent",

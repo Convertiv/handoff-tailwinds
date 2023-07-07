@@ -17,7 +17,8 @@ module.exports = {
     "base": "10px",
     "strong": "10px",
     "label": "12px",
-    "help": "12px"
+    "help": "12px",
+    "paragraph": "14px"
   },
   "lineHeight": {
     "heading-1": "62px",
@@ -37,7 +38,8 @@ module.exports = {
     "base": "16px",
     "strong": "16px",
     "label": "19px",
-    "help": "19px"
+    "help": "19px",
+    "paragraph": "25px"
   },
   "textColor": {
     "heading-1": "#000000",
@@ -57,7 +59,8 @@ module.exports = {
     "base": "#000000",
     "strong": "#000000",
     "label": "#000000",
-    "help": "#000000"
+    "help": "#000000",
+    "paragraph": "#000000"
   },
   "fontFamily": {
     "heading-1": [
@@ -113,6 +116,9 @@ module.exports = {
     ],
     "help": [
       "Inter"
+    ],
+    "paragraph": [
+      "Inter"
     ]
   },
   "fontWeight": {
@@ -133,7 +139,8 @@ module.exports = {
     "base": 400,
     "strong": 700,
     "label": 400,
-    "help": 400
+    "help": 400,
+    "paragraph": 400
   },
   "letterSpacing": {
     "heading-1": "-1.12px",
@@ -153,6 +160,7 @@ module.exports = {
     "base": "-0.2px",
     "strong": "-0.2px",
     "label": "-0.24px",
-    "help": "-0.24px"
+    "help": "-0.24px",
+    "paragraph": "-0.28px"
   }
 };
