@@ -321,7 +321,7 @@ $button-light-dark-hover-letter-spacing: -0.28px;
 $button-light-dark-hover-text-align: center;
 $button-light-dark-hover-text-decoration: none;
 $button-light-dark-hover-text-transform: none;
-$button-light-dark-hover-color: #0080ff;
+$button-light-dark-hover-color: #0073e6;
 
 // Light button, theme: dark, state: default
 $button-light-dark-background: #ffffff;
@@ -371,7 +371,7 @@ $button-light-hover-letter-spacing: -0.28px;
 $button-light-hover-text-align: center;
 $button-light-hover-text-decoration: none;
 $button-light-hover-text-transform: none;
-$button-light-hover-color: #0080ff;
+$button-light-hover-color: #0073e6;
 
 // Light button, theme: light, state: default
 $button-light-background: #dcedff;
@@ -599,7 +599,7 @@ $button-secondary-text-transform: none;
 $button-secondary-color: #ffffff;
 
 // Primary button, theme: dark, state: hover
-$button-primary-dark-hover-background: #258cf2;
+$button-primary-dark-hover-background: #309cff;
 $button-primary-dark-hover-border-width: 1px;
 $button-primary-dark-hover-border-radius: 4px;
 $button-primary-dark-hover-border-color: rgba(0, 0, 0, 0);
@@ -624,7 +624,7 @@ $button-primary-dark-hover-text-transform: none;
 $button-primary-dark-hover-color: #ffffff;
 
 // Primary button, theme: dark, state: default
-$button-primary-dark-background: #0080ff;
+$button-primary-dark-background: #0073e6;
 $button-primary-dark-border-width: 1px;
 $button-primary-dark-border-radius: 4px;
 $button-primary-dark-border-color: rgba(0, 0, 0, 0);
@@ -649,7 +649,7 @@ $button-primary-dark-text-transform: none;
 $button-primary-dark-color: #ffffff;
 
 // Primary button, theme: light, state: hover
-$button-primary-hover-background: #23e22b;
+$button-primary-hover-background: #0f69c1;
 $button-primary-hover-border-width: 1px;
 $button-primary-hover-border-radius: 4px;
 $button-primary-hover-border-color: rgba(0, 0, 0, 0);
@@ -674,7 +674,7 @@ $button-primary-hover-text-transform: none;
 $button-primary-hover-color: #ffffff;
 
 // Primary button, theme: light, state: default
-$button-primary-background: #4c34b6;
+$button-primary-background: #0f69c1;
 $button-primary-border-width: 1px;
 $button-primary-border-radius: 4px;
 $button-primary-border-color: rgba(0, 0, 0, 0);
@@ -772,6 +772,31 @@ $button-lg-text-align: center;
 $button-lg-text-decoration: none;
 $button-lg-text-transform: none;
 $button-lg-color: #ffffff;
+
+// Button, size: extra
+$button-extra-background: #000000;
+$button-extra-border-width: 1px;
+$button-extra-border-radius: 4px;
+$button-extra-border-color: rgba(0, 0, 0, 0);
+$button-extra-padding-y: 14px;
+$button-extra-padding-x: 20px;
+$button-extra-padding-top: 14px;
+$button-extra-padding-right: 20px;
+$button-extra-padding-bottom: 14px;
+$button-extra-padding-left: 20px;
+$button-extra-padding-start: 20px;
+$button-extra-padding-end: 20px;
+$button-extra-spacing: 20px;
+$button-extra-box-shadow: none;
+$button-extra-font-family: 'Inter';
+$button-extra-font-size: 16px;
+$button-extra-font-weight: 600;
+$button-extra-line-height: 1.25;
+$button-extra-letter-spacing: -0.32px;
+$button-extra-text-align: center;
+$button-extra-text-decoration: none;
+$button-extra-text-transform: none;
+$button-extra-color: #ffffff;
 
 // Custom-type button, theme: light, state: disabled
 $button-custom-type-disabled-background: #e5e5e5;

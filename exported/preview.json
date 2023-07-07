@@ -3,48 +3,48 @@
     "alert": [
       {
         "id": "design-type-primary",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-primary\" role=\"alert\">\n    <p>Notification text</p>\n  </div>\n</body>\n",
-        "code": "<div class=\"alert alert-primary\" role=\"alert\">\n    <p>Notification text</p>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-primary\" role=\"alert\">\n    <p class=\"alert-primary-text\">Notification text</p>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert alert-primary\" role=\"alert\">\n    <p class=\"alert-primary-text\">Notification text</p>\n  </div>"
       },
       {
         "id": "design-type-secondary",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-secondary\" role=\"alert\">\n    <p>Notification text</p>\n  </div>\n</body>\n",
-        "code": "<div class=\"alert alert-secondary\" role=\"alert\">\n    <p>Notification text</p>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-secondary\" role=\"alert\">\n    <p class=\"alert-secondary-text\">Notification text</p>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert alert-secondary\" role=\"alert\">\n    <p class=\"alert-secondary-text\">Notification text</p>\n  </div>"
       },
       {
         "id": "design-type-dark",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-dark\" role=\"alert\">\n    <p>Notification text</p>\n  </div>\n</body>\n",
-        "code": "<div class=\"alert alert-dark\" role=\"alert\">\n    <p>Notification text</p>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-dark\" role=\"alert\">\n    <p class=\"alert-dark-text\">Notification text</p>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert alert-dark\" role=\"alert\">\n    <p class=\"alert-dark-text\">Notification text</p>\n  </div>"
       },
       {
         "id": "design-type-light",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-light\" role=\"alert\">\n    <p>Notification text</p>\n  </div>\n</body>\n",
-        "code": "<div class=\"alert alert-light\" role=\"alert\">\n    <p>Notification text</p>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-light\" role=\"alert\">\n    <p class=\"alert-light-text\">Notification text</p>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert alert-light\" role=\"alert\">\n    <p class=\"alert-light-text\">Notification text</p>\n  </div>"
       },
       {
         "id": "design-type-info",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-info\" role=\"alert\">\n    <p>Notification text</p>\n  </div>\n</body>\n",
-        "code": "<div class=\"alert alert-info\" role=\"alert\">\n    <p>Notification text</p>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-info\" role=\"alert\">\n    <p class=\"alert-info-text\">Notification text</p>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert alert-info\" role=\"alert\">\n    <p class=\"alert-info-text\">Notification text</p>\n  </div>"
       },
       {
         "id": "design-type-success",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-success\" role=\"alert\">\n    <p>Notification text</p>\n  </div>\n</body>\n",
-        "code": "<div class=\"alert alert-success\" role=\"alert\">\n    <p>Notification text</p>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-success\" role=\"alert\">\n    <p class=\"alert-success-text\">Notification text</p>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert alert-success\" role=\"alert\">\n    <p class=\"alert-success-text\">Notification text</p>\n  </div>"
       },
       {
         "id": "design-type-warning",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-warning\" role=\"alert\">\n    <p>Notification text</p>\n  </div>\n</body>\n",
-        "code": "<div class=\"alert alert-warning\" role=\"alert\">\n    <p>Notification text</p>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-warning\" role=\"alert\">\n    <p class=\"alert-warning-text\">Notification text</p>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert alert-warning\" role=\"alert\">\n    <p class=\"alert-warning-text\">Notification text</p>\n  </div>"
       },
       {
         "id": "design-type-danger",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-danger\" role=\"alert\">\n    <p>Notification text</p>\n  </div>\n</body>\n",
-        "code": "<div class=\"alert alert-danger\" role=\"alert\">\n    <p>Notification text</p>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-danger\" role=\"alert\">\n    <p class=\"alert-danger-text\">Notification text</p>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert alert-danger\" role=\"alert\">\n    <p class=\"alert-danger-text\">Notification text</p>\n  </div>"
       },
       {
         "id": "design-type-type9",
-        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-type9\" role=\"alert\">\n    <p>Notification text</p>\n  </div>\n</body>\n",
-        "code": "<div class=\"alert alert-type9\" role=\"alert\">\n    <p>Notification text</p>\n  </div>"
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n  <div class=\"alert alert-type9\" role=\"alert\">\n    <p class=\"alert-type9-text\">Notification text</p>\n  </div>\n</body>\n",
+        "code": "<div class=\"alert alert-type9\" role=\"alert\">\n    <p class=\"alert-type9-text\">Notification text</p>\n  </div>"
       },
       {
         "id": "layout-horizontal",
@@ -212,6 +212,11 @@
         "id": "size-large",
         "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"preview-body\">\n<button class=\"btn btn-primary btn-lg\"></button>\n</body>\n",
         "code": "<button class=\"btn btn-primary btn-lg\"></button>"
+      },
+      {
+        "id": "size-extra",
+        "preview": "<script src=\"/components/bundle.js\"></script>\n\n<body class=\"theme- preview-body\">\n  <div>\n    <button class=\"button-\">Button text</button>\n  </div>\n</body>\n",
+        "code": "<div>\n    <button class=\"button-\">Button text</button>\n  </div>"
       },
       {
         "id": "design-theme-light-type-custom-type-state-disabled",
