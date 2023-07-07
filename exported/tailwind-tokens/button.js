@@ -248,7 +248,7 @@ module.exports = {
       "textAlign": "center",
       "textDecoration": "none",
       "textTransform": "none",
-      "color": "#0073e6"
+      "color": "#0080ff"
     },
     "background": "#dcedff",
     "borderWidth": "1px",
@@ -451,7 +451,7 @@ module.exports = {
   },
   ".button-primary": {
     "$hover": {
-      "background": "#0f69c1",
+      "background": "#258cf2",
       "borderWidth": "1px",
       "borderRadius": "4px",
       "borderColor": "rgba(0, 0, 0, 0)",
@@ -475,7 +475,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#ffffff"
     },
-    "background": "#0f69c1",
+    "background": "#4c34b6",
     "borderWidth": "1px",
     "borderRadius": "4px",
     "borderColor": "rgba(0, 0, 0, 0)",

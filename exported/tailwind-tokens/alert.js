@@ -3,7 +3,7 @@ module.exports = {
     "background": "#d3e7fa",
     "borderWidth": "1px",
     "borderRadius": "6px",
-    "borderColor": "#0073e6",
+    "borderColor": "#0080ff",
     "paddingY": "18px",
     "paddingX": "16px",
     "paddingTop": "18px",
