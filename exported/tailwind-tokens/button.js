@@ -1,6 +1,6 @@
 module.exports = {
   ".button-custom-type": {
-    "$hover": {
+    "&:hover": {
       "background": "linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #e0aa09",
       "borderWidth": "1px",
       "borderRadius": "4px",
@@ -48,7 +48,7 @@ module.exports = {
     "textDecoration": "none",
     "textTransform": "none",
     "color": "#333333",
-    "$disabled": {
+    "&:disabled": {
       "background": "#333333",
       "borderWidth": "1px",
       "borderRadius": "4px",
@@ -75,7 +75,7 @@ module.exports = {
     }
   },
   ".button-outline-secondary": {
-    "$hover": {
+    "&:hover": {
       "background": "rgba(0, 0, 0, 0)",
       "borderWidth": "1px",
       "borderRadius": "4px",
@@ -123,7 +123,7 @@ module.exports = {
     "textDecoration": "none",
     "textTransform": "none",
     "color": "#4c34b6",
-    "$disabled": {
+    "&:disabled": {
       "background": "#e5e5e5",
       "borderWidth": "1px",
       "borderRadius": "4px",
@@ -150,7 +150,7 @@ module.exports = {
     }
   },
   ".button-danger": {
-    "$hover": {
+    "&:hover": {
       "background": "#c32b3a",
       "borderWidth": "1px",
       "borderRadius": "4px",
@@ -198,7 +198,7 @@ module.exports = {
     "textDecoration": "none",
     "textTransform": "none",
     "color": "#ffffff",
-    "$disabled": {
+    "&:disabled": {
       "background": "#e5e5e5",
       "borderWidth": "1px",
       "borderRadius": "4px",
@@ -225,7 +225,7 @@ module.exports = {
     }
   },
   ".button-light": {
-    "$hover": {
+    "&:hover": {
       "background": "#c8e1fc",
       "borderWidth": "1px",
       "borderRadius": "4px",
@@ -273,7 +273,7 @@ module.exports = {
     "textDecoration": "none",
     "textTransform": "none",
     "color": "#000000",
-    "$disabled": {
+    "&:disabled": {
       "background": "#e5e5e5",
       "borderWidth": "1px",
       "borderRadius": "4px",
@@ -300,7 +300,7 @@ module.exports = {
     }
   },
   ".button-dark": {
-    "$hover": {
+    "&:hover": {
       "background": "#000000",
       "borderWidth": "1px",
       "borderRadius": "4px",
@@ -348,7 +348,7 @@ module.exports = {
     "textDecoration": "none",
     "textTransform": "none",
     "color": "#ffffff",
-    "$disabled": {
+    "&:disabled": {
       "background": "#e5e5e5",
       "borderWidth": "1px",
       "borderRadius": "4px",
@@ -375,7 +375,7 @@ module.exports = {
     }
   },
   ".button-secondary": {
-    "$hover": {
+    "&:hover": {
       "background": "#3b2794",
       "borderWidth": "1px",
       "borderRadius": "4px",
@@ -423,7 +423,7 @@ module.exports = {
     "textDecoration": "none",
     "textTransform": "none",
     "color": "#ffffff",
-    "$disabled": {
+    "&:disabled": {
       "background": "#e5e5e5",
       "borderWidth": "1px",
       "borderRadius": "4px",
@@ -450,7 +450,7 @@ module.exports = {
     }
   },
   ".button-primary": {
-    "$hover": {
+    "&:hover": {
       "background": "#258cf2",
       "borderWidth": "1px",
       "borderRadius": "4px",
@@ -498,7 +498,7 @@ module.exports = {
     "textDecoration": "none",
     "textTransform": "none",
     "color": "#ffffff",
-    "$disabled": {
+    "&:disabled": {
       "background": "#e5e5e5",
       "borderWidth": "1px",
       "borderRadius": "4px",

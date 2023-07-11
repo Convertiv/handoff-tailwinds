@@ -1,6 +1,6 @@
 module.exports = {
-  ".input-": {
-    "$disabled": {
+  ".input": {
+    "&:disabled": {
       "background": "#f8f8f8",
       "borderWidth": "2px",
       "borderRadius": "4px",
@@ -25,7 +25,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#777777"
     },
-    "$error": {
+    "&:error": {
       "background": "#ffffff",
       "borderWidth": "2px",
       "borderRadius": "4px",
@@ -50,7 +50,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#777777"
     },
-    "$complete": {
+    "&:complete": {
       "background": "#ffffff",
       "borderWidth": "2px",
       "borderRadius": "4px",
@@ -75,7 +75,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#000000"
     },
-    "$active": {
+    "&:active": {
       "background": "#ffffff",
       "borderWidth": "2px",
       "borderRadius": "4px",
@@ -100,7 +100,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#000000"
     },
-    "$hover": {
+    "&:hover": {
       "background": "#ffffff",
       "borderWidth": "2px",
       "borderRadius": "4px",
@@ -149,8 +149,8 @@ module.exports = {
     "textTransform": "none",
     "color": "#777777"
   },
-  ".input--label": {
-    "$disabled": {
+  ".input-label": {
+    "&:disabled": {
       "paddingY": "0px",
       "paddingX": "0px",
       "paddingTop": "0px",
@@ -170,7 +170,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#777777"
     },
-    "$error": {
+    "&:error": {
       "paddingY": "0px",
       "paddingX": "0px",
       "paddingTop": "0px",
@@ -190,7 +190,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#555555"
     },
-    "$complete": {
+    "&:complete": {
       "paddingY": "0px",
       "paddingX": "0px",
       "paddingTop": "0px",
@@ -210,7 +210,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#555555"
     },
-    "$active": {
+    "&:active": {
       "paddingY": "0px",
       "paddingX": "0px",
       "paddingTop": "0px",
@@ -230,7 +230,7 @@ module.exports = {
       "textTransform": "none",
       "color": "rgba(0, 0, 0, 0.8)"
     },
-    "$hover": {
+    "&:hover": {
       "paddingY": "0px",
       "paddingX": "0px",
       "paddingTop": "0px",
@@ -269,8 +269,8 @@ module.exports = {
     "textTransform": "none",
     "color": "#555555"
   },
-  ".input--text": {
-    "$disabled": {
+  ".input-text": {
+    "&:disabled": {
       "fontFamily": "'Inter'",
       "fontSize": "14px",
       "fontWeight": "400",
@@ -281,7 +281,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#777777"
     },
-    "$error": {
+    "&:error": {
       "fontFamily": "'Inter'",
       "fontSize": "14px",
       "fontWeight": "400",
@@ -292,7 +292,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#777777"
     },
-    "$complete": {
+    "&:complete": {
       "fontFamily": "'Inter'",
       "fontSize": "14px",
       "fontWeight": "400",
@@ -303,7 +303,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#000000"
     },
-    "$active": {
+    "&:active": {
       "fontFamily": "'Inter'",
       "fontSize": "14px",
       "fontWeight": "400",
@@ -314,7 +314,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#000000"
     },
-    "$hover": {
+    "&:hover": {
       "fontFamily": "'Inter'",
       "fontSize": "14px",
       "fontWeight": "400",
@@ -335,28 +335,28 @@ module.exports = {
     "textTransform": "none",
     "color": "#777777"
   },
-  ".input--icon": {
-    "$disabled": {
+  ".input-icon": {
+    "&:disabled": {
       "borderWidth": "2px",
       "borderRadius": "0px",
       "borderColor": "#000000"
     },
-    "$error": {
+    "&:error": {
       "borderWidth": "2px",
       "borderRadius": "0px",
       "borderColor": "#000000"
     },
-    "$complete": {
+    "&:complete": {
       "borderWidth": "2px",
       "borderRadius": "0px",
       "borderColor": "#000000"
     },
-    "$active": {
+    "&:active": {
       "borderWidth": "2px",
       "borderRadius": "0px",
       "borderColor": "#000000"
     },
-    "$hover": {
+    "&:hover": {
       "borderWidth": "2px",
       "borderRadius": "0px",
       "borderColor": "#000000"
@@ -365,8 +365,8 @@ module.exports = {
     "borderRadius": "0px",
     "borderColor": "#000000"
   },
-  ".input--additional-info": {
-    "$disabled": {
+  ".input-additional-info": {
+    "&:disabled": {
       "paddingY": "0px",
       "paddingX": "0px",
       "paddingTop": "0px",
@@ -386,7 +386,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#777777"
     },
-    "$error": {
+    "&:error": {
       "paddingY": "0px",
       "paddingX": "0px",
       "paddingTop": "0px",
@@ -406,7 +406,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#dc3545"
     },
-    "$complete": {
+    "&:complete": {
       "paddingY": "0px",
       "paddingX": "0px",
       "paddingTop": "0px",
@@ -426,7 +426,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#777777"
     },
-    "$active": {
+    "&:active": {
       "paddingY": "0px",
       "paddingX": "0px",
       "paddingTop": "0px",
@@ -446,7 +446,7 @@ module.exports = {
       "textTransform": "none",
       "color": "#777777"
     },
-    "$hover": {
+    "&:hover": {
       "paddingY": "0px",
       "paddingX": "0px",
       "paddingTop": "0px",

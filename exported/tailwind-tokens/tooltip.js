@@ -1,5 +1,5 @@
 module.exports = {
-  ".tooltip-": {
+  ".tooltip": {
     "background": "#0080ff",
     "borderWidth": "1px",
     "borderRadius": "2px",
